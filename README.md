@@ -24,11 +24,15 @@ BMI = Weight (kg) / Height² (m²)
 - Conditional statements
 - Functions
 
+## What I learned
+
+This project helped me practice basic Python concepts including variables, user input, arithmetic operations, conditional logic, and functions.
+
 ## Example
 
 ```text
-Enter your weight in kg: 61
-Enter your height in meters: 1.70
+Enter your weight in kg: 60.5
+Enter your height in centimetres: 170
 
-Your BMI is: 21.11
-Category: Normal weight
+Your BMI is: 20.93
+You're have normal weight!

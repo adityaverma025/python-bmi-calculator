@@ -7,7 +7,7 @@ A beginner Python project that calculates Body Mass Index (BMI) using a person's
 The program:
 
 1. Takes the user's weight in kilograms
-2. Takes the user's height in meters
+2. Takes the user's height in centimetres
 3. Calculates BMI
 4. Displays the BMI category
 
